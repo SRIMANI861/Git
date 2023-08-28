@@ -1,0 +1,59 @@
+/* div {
+    background-image: url(C:\Users\narani.srimani\Downloads\chandrayaan-hero.jpg);
+    background-size: contain;
+} */
+body{
+    text-align: center;
+    background-color: black;
+}
+
+#ISRO h1{
+    color: #1e11ad;
+    /* background-color: cadetblue; */
+}
+div.container h1{
+    color: rgb(247, 246, 241);
+    background-color: black;
+} 
+/* .container{
+    background: linear-gradient(#da0fb1,#8c7286);
+} */
+
+div h1{
+    font-size: medium;
+    color: rgb(29, 201, 175);
+}
+div h1{
+    color: chocolate;
+}
+
+h2{
+    color: red;
+    font-family: cursive;
+    font-style: italic;
+}
+h1,h2,h3{
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+div h1{
+    color: darkred;
+}
+img{
+    background: linear-gradient(#1e11ad,#9186e2);
+    /* background-color: cadetblue; */
+    border: 5px solid rgb(128, 0, 113);
+    max-width: 20%;
+    max-height: 30%;
+    padding: auto;
+}
+a{
+    font-size: 20px;
+    color: rgb(25, 207, 25);
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
